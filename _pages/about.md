@@ -1,12 +1,16 @@
 ---
 permalink: /
-title: "About me"
+title: "Ming-Zhe Chong's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+I received the B.E. degree in optoelectronic information science and engineering from Huazhong University of Science and Technology (HUST), Wuhan, China, in 2021. I am currently pursuing a Ph.D. degree at the School of Electronics, Peking University, Beijing, China. I expect to graduate from Peking University by July 2026. My current research interests include terahertz technology, diffractive optical neural networks, metasurfaces, and electromagnetic wave manipulation. I have published more than 20 peer-reviewed papers in journals such as PhotoniX, Light: Advanced Manufacturing, Photonics Research, Nanoscale, and Optical Materials.
+
+Templete
+======
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
