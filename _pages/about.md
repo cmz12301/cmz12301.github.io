@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ming-Zhe Chong's Homepage"
+title: "About Ming-Zhe Chong"
 author_profile: true
 redirect_from: 
   - /about/
