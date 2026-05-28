@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV here: [CV](/files/CV-cmz.pdf).
+Please download my CV here: [CV](/files/CV-cmz.pdf).
 
 <!-- To be completed 
 Education
